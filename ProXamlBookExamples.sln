@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProXamlBookExamples", "ProXamlBookExamples\ProXamlBookExamples.csproj", "{F3817E9D-6B54-4F46-B770-120318CF0A78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreetingTDD", "GreetingTDD\GreetingTDD.csproj", "{494898AB-525B-4E77-9AC8-FB1FDBAD2722}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreetingTDD.Tests", "GreetingTDD.Tests\GreetingTDD.Tests.csproj", "{DF4E731C-B6F4-4539-84FE-8295C6AAF850}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F3817E9D-6B54-4F46-B770-120318CF0A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3817E9D-6B54-4F46-B770-120318CF0A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3817E9D-6B54-4F46-B770-120318CF0A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494898AB-525B-4E77-9AC8-FB1FDBAD2722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494898AB-525B-4E77-9AC8-FB1FDBAD2722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494898AB-525B-4E77-9AC8-FB1FDBAD2722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494898AB-525B-4E77-9AC8-FB1FDBAD2722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF4E731C-B6F4-4539-84FE-8295C6AAF850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4E731C-B6F4-4539-84FE-8295C6AAF850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4E731C-B6F4-4539-84FE-8295C6AAF850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4E731C-B6F4-4539-84FE-8295C6AAF850}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
